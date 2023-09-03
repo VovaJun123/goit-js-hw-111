@@ -9,6 +9,7 @@ export class PixabayAPI {
   #query = '';
   #totalPhotos = 0;
 
+  
   async getPhotos() {
     const params = {
       page: this.#page,

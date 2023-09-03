@@ -10,3 +10,4 @@ export const refs = {
   like: document.querySelector('.heart'),
   searchInput: document.querySelector('.search-form-input'),
 };
+

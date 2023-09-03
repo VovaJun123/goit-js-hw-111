@@ -12,6 +12,7 @@ const modalLightboxGallery = new SimpleLightbox('.gallery a', {
   captionDelay: 250,
 });
 
+
 spinnerPlay();
 
 window.addEventListener('load', () => {

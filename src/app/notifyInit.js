@@ -7,3 +7,4 @@ export const notifyInit = {
   fontSize: '16px',
   borderRadius: '50px',
 };
+

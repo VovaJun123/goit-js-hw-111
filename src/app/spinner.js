@@ -57,3 +57,5 @@ export function spinnerStop() {
     refs.body.classList.add('loaded');
   }, 1500);
 }
+
+
