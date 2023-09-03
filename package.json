@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://VovaJun123git .github.io/goit-js-hw-111",
+  "homepage": "https://VovaJun123.github.io/goit-js-hw-111",
   "scripts": {
     "start": "parcel src/*.html -p 1111 --open",
     "build": "parcel build src/*.html --public-url /goit-js-hw-111/"
